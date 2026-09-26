@@ -24,6 +24,7 @@ Key Features:
 
 ​1. Core Processing & Communication Layer
 ​Primary Controller: Nordic nRF54LM20 DK (featuring integrated Axon NPU and native Bluetooth Mesh/LE support).
+
 ​2. Sensing Layer
 ​Vibration & Motion: 3-axis Accelerometer (e.g., ADXL345 / MPU6050) mounted to the engine block for mechanical health analysis.
 ​Thermal Monitoring: Waterproof digital temperature sensor / thermocouple (for cylinder head and exhaust monitoring).
